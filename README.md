@@ -10,10 +10,14 @@ metaLinks:
 
 Calendrier is a library that allows you to easily get a calendar in the easiest way possible. This library supports various calendar types, from Chinese and Japanese calendars to Hijri calendars, you can use this library to describe a date in different calendars in environments that don't use Gregorian calendars.
 
-### Installation <a href="#installation" id="installation"></a>
+## <mark style="color:$primary;">Release history</mark>
 
-You can follow the installation and upgrade steps by clicking on the link below to get the full instructions:
+Below is the release history of the library:
 
-{% content-ref url="https://app.gitbook.com/s/Id4bob6wnHvpX4zbVVtI/csharp-libraries/installation-and-upgrade" %}
-[Installation and Upgrade](https://app.gitbook.com/s/Id4bob6wnHvpX4zbVVtI/csharp-libraries/installation-and-upgrade)
-{% endcontent-ref %}
+{% updates format="full" %}
+{% update date="2026-01-12" %}
+## <mark style="color:$primary;">v1.0.0</mark>
+
+The initial release of the library is now live!
+{% endupdate %}
+{% endupdates %}
